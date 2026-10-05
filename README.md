@@ -14,8 +14,3 @@ For future projects and exams, I will write down the complete set of active stat
 
 I also want to attempt more difficult questions on my own during the week. I know I will not always have a helping hand, so I want to build confidence in working through these problems independently.
 
-## Files and results
-
-Each problem includes a JFLAP machine (`nXX.jff`), a test file (`nXXt.txt`), and a report (`nXXr.md`). The reports contain machine and batch screenshots. Problems #6, #9, and #13 also include handwritten computation trees and step screenshots.
-
-Each machine passed 24 nonempty test strings and a separate empty-string test in JFLAP. Accepted strings appear before rejected strings in each test file.
